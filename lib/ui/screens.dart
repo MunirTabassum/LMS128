@@ -1,0 +1,9 @@
+export 'login_screen.dart';
+export 'forgot_pass_screen.dart';
+export 'reset_pass_screen.dart';
+export 'registration_screen.dart';
+export 'reset_pass_screen.dart';
+export 'splash_screen.dart';
+export 'otp_gen_screen.dart';
+export 'otp_ver_screen.dart';
+export 'profile_screen.dart';
